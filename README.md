@@ -1,2 +1,2 @@
 # Collaborated-Project
-# This is Collaborated project. 
+# It contains the information about project
